@@ -13,4 +13,4 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: "Hi there, Thank you for reporting this issue - @BlockSyncHQ/blocksyncdevs  will look into your issue. To make communication even better join our Discord Community [here]() `(not available yet)`."
-        pr-message: "Hi there, Thank you for reporting this issue - @BlockSyncHQ/blocksyncdevs  will look into your PR. To make communication even better join our Discord Community [here]() `(not available yet)`."
+        pr-message: "Hi there, Thank you for creating this PR - @BlockSyncHQ/blocksyncdevs  will look into your PR. To make communication even better join our Discord Community [here]() `(not available yet)`."
