@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: BlockSyncHQ Discussions
+    url: https://github.com/BlockSyncHQ/BlockSync/discussions
+    about: Please ask and answer questions here.
+  - name: BlockSync support
+    email: n3v1010@gmail.com
+    about: Support email
