@@ -15,4 +15,18 @@
   </a>
 </p>
 
-BlockSync is a powerful decentralized wallet written entirely and unapologetically for iOS and Android. 
+BlockSync is a powerful decentralized wallet written entirely and unapologetically for iOS and Android.
+
+## Table of Contents
+- [Motivation](#motivation)
+- [Mission](#mission)
+- [Features](#features)
+- [Community](#community)
+- [Privacy](#privacy)
+- [Pricing Model](#pricing_model)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+- [License](#license)
+- [Download](#download)
+
+## Motivation
