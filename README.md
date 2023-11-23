@@ -12,4 +12,4 @@
 ## Community
 
 ## License
-[![License](https://img.shields.io/badge/license-apache2.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](LICENSE)
