@@ -28,7 +28,7 @@ Access your funds anytime, anywhere. BlockSync is compatible with desktop and mo
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/yourusername/blocksync.git
+   git clone https://github.com/BlockSyncHQ/blocksync.git
    ```
 
 2. **Install Dependencies:**
