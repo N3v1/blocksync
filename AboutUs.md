@@ -1,1 +1,0 @@
-# About Our Team
