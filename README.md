@@ -41,6 +41,11 @@ Access your funds anytime, anywhere. BlockSync is compatible with desktop and mo
    ```
    npm start
    ```
+4. **Run the app with Android Studio or VS Code Or the command line:**
+   ```
+   flutter pub get
+   flutter run
+   ```
 
 ## Community
 
