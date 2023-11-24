@@ -9,7 +9,7 @@
 
 ## Documentation
 
-🔐 **Decentralized Security:**
+🔐 **Decentralized:**
 BlockSync leverages blockchain technology to eliminate the need for centralized intermediaries. Your private keys stay in your hands, providing unparalleled security and control over your funds.
 
 🌐 **Multi-Blockchain Support:**
