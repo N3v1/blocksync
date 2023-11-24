@@ -12,7 +12,7 @@
 🔐 **Decentralized:**
 BlockSync leverages blockchain technology to eliminate the need for centralized intermediaries. Your private keys stay in your hands, providing unparalleled security and control over your funds.
 
-🌐 **Multi-Blockchain Support:**
+🌐 **Multi-Blockchain:**
 Supporting a diverse range of blockchains, BlockSync allows you to manage various cryptocurrencies in one unified interface. Seamlessly switch between different networks with ease.
 
 🛡️ **Enhanced Privacy:**
@@ -21,7 +21,7 @@ Protecting your financial privacy is our priority. BlockSync incorporates advanc
 💻 **User-Friendly Interface:**
 Designed with simplicity in mind, BlockSync offers an intuitive and user-friendly interface. Whether you're a seasoned crypto enthusiast or a newcomer, managing your assets has never been this easy.
 
-🌍 **Cross-Platform Compatibility:**
+🌍 **Cross-Platform:**
 Access your funds anytime, anywhere. BlockSync is compatible with desktop and mobile platforms, ensuring that you stay connected to your assets on the go.
 
 ### Getting Started:
