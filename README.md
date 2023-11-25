@@ -69,4 +69,4 @@ The `PR` should include following information:
 **Connect with [BlockSync Discussions](https://github.com/orgs/BlockSyncHQ/discussions) for insights and connectivity.**
 
 ## License
-[![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](LICENSE) 
