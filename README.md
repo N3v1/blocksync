@@ -40,7 +40,7 @@ Designed with simplicity in mind, BlockSync offers an intuitive and user-friendl
    ```
    npm start
    ```
-4. **Run the app with Android Studio, VS Code Or the command line:**
+4. **Run the app with Android Studio, VS Code Or the Command Line:**
    
    ```
    flutter pub get
