@@ -47,11 +47,11 @@ Designed with simplicity in mind, BlockSync offers an intuitive and user-friendl
    flutter run
    ```
 
-### Explore Issues
+#### Explore Issues
 
 Find issues from the [Issues Tab](https://github.com/BlockSyncHQ/blocksync/issues) or from the To Do column in our [Project]() `(not available yet)`. If you find an issue you want to work on, please indicate it in the issue and/or attach a draft PR once available. An admin or maintainer will then assign the Issue and/or PR to you.
 
-### Pull Request
+#### Pull Request
 
 Once you are happy with your changes, submit a `Pull Request`.
 
