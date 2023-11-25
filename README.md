@@ -31,6 +31,8 @@ Designed with simplicity in mind, BlockSync offers an intuitive and user-friendl
 2. **Install Dependencies:**
    ```
    cd blocksync
+   ```
+   ```
    npm install
    ```
 
@@ -38,9 +40,12 @@ Designed with simplicity in mind, BlockSync offers an intuitive and user-friendl
    ```
    npm start
    ```
-4. **Run the app with Android Studio or VS Code Or the command line:**
+4. **Run the app with Android Studio, VS Code Or the command line:**
+   
    ```
    flutter pub get
+   ```
+   ```
    flutter run
    ```
 
