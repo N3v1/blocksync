@@ -5,21 +5,19 @@
 - [Community](#community)
 - [License](#license)
 
-
 ## Documentation
 
 🔐 **Decentralized:**
-BlockSync leverages blockchain technology to eliminate the need for centralized intermediaries. Your private keys stay in your hands, providing unparalleled security and control over your funds.
+**BlockSync leverages blockchain technology to eliminate the need for centralized intermediaries. Your private keys stay in your hands, providing unparalleled security and control over your funds.**
 
 🌍 **Multi-Blockchain:**
-Supporting a diverse range of blockchains, BlockSync allows you to manage various cryptocurrencies in one unified interface. Seamlessly switch between different networks with ease.
+**Supporting a diverse range of blockchains, BlockSync allows you to manage various cryptocurrencies in one unified interface. Seamlessly switch between different networks with ease.**
 
 🛡️ **Enhanced Privacy:**
-Protecting your financial privacy is our priority. BlockSync incorporates advanced cryptographic techniques to secure your transactions and shield your identity from prying eyes.
+**Protecting your financial privacy is our priority. BlockSync incorporates advanced cryptographic techniques to secure your transactions and shield your identity from prying eyes.**
 
 💻 **User-Friendly Interface:**
-Designed with simplicity in mind, BlockSync offers an intuitive and user-friendly interface. Whether you're a seasoned crypto enthusiast or a newcomer, managing your assets has never been this easy.
-
+**Designed with simplicity in mind, BlockSync offers an intuitive and user-friendly interface. Whether you're a seasoned crypto enthusiast or a newcomer, managing your assets has never been this easy.**
 
 ### Getting Started:
 
@@ -68,7 +66,7 @@ The `PR` should include following information:
 
 ## Community
 
-Connect with [BlockSync Discussions](https://github.com/orgs/BlockSyncHQ/discussions) for insights and connectivity
+**Connect with [BlockSync Discussions](https://github.com/orgs/BlockSyncHQ/discussions) for insights and connectivity.**
 
 ## License
 [![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](LICENSE)
