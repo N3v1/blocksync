@@ -46,7 +46,7 @@ Designed with simplicity in mind, BlockSync offers an intuitive and user-friendl
 
 ### Explore Issues
 
-Find issues from the [Issues tab](https://github.com/BlockSyncHQ/blocksync/issues) or from the To Do column in our [project]() `(not available yet)`. If you find an issue you want to work on, please indicate it in the issue and/or attach a draft PR once available. An admin or maintainer will then assign the Issue and/or PR to you.
+Find issues from the [Issues Tab](https://github.com/BlockSyncHQ/blocksync/issues) or from the To Do column in our [Project]() `(not available yet)`. If you find an issue you want to work on, please indicate it in the issue and/or attach a draft PR once available. An admin or maintainer will then assign the Issue and/or PR to you.
 
 ### Pull Request
 
