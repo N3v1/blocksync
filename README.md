@@ -1,4 +1,4 @@
->BlockSync is a decentralized gateway for digital assets and stands as a beacon of decentralization. It is the epitome of decentralized innovation. It's seamlessly merging security and accessibility. By leveraging the power of blockchain, BlockSync ensures that data is securely and efficiently shared between nodes without compromising on integrity or reliability.
+**BlockSync is a decentralized gateway for digital assets and stands as a beacon of decentralization. It is the epitome of decentralized innovation. It's seamlessly merging security and accessibility. By leveraging the power of blockchain, BlockSync ensures that data is securely and efficiently shared between nodes without compromising on integrity or reliability.**
 
 # Table of Contents
 - [Documentation](#documentation)
@@ -44,7 +44,26 @@ Designed with simplicity in mind, BlockSync offers an intuitive and user-friendl
    flutter run
    ```
 
+### Explore Issues
+
+Find issues from the [Issues tab](https://github.com/BlockSyncHQ/blocksync/issues) or from the To Do column in our [project]() `(not available yet)`. If you find an issue you want to work on, please indicate it in the issue and/or attach a draft PR once available. An admin or maintainer will then assign the Issue and/or PR to you.
+
+### Pull Request
+
+Once you are happy with your changes, submit a `Pull Request`.
+
+The pull request opens with a template loaded. Fill out all fields that are relevant.
+
+The `PR` should include following information:
+* A descriptive **title** on what changed.
+* A detailed **description** of changes.
+* If you made changes to the UI please add a **screenshot** or **video** as well.
+* If there is a related issue please add a **reference to the issue**. If not, create one beforehand and link it.
+* If your PR is still in progress mark it as **Draft**.
+
 ## Community
+
+Connect with [BlockSync Discussions](https://github.com/orgs/BlockSyncHQ/discussions) for insights and connectivity
 
 ## License
 [![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](LICENSE)
